@@ -75,3 +75,6 @@ const minAgeToVote = 18;
 // THE OLD VARIABLE KEYWORD
 // Before let & const, var was the only way to decalaring variables. 
 // These day's, there isn't really a reason to use it.
+
+
+////////////////  Let Keyword ///////////////////
